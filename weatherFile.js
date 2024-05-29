@@ -65,7 +65,7 @@ function changeBackground(temp) {
         appOutline.style.backgroundImage = "url('olafcold.gif')";
     } else if (temp >= 8 && temp <= 15) {
         appOutline.style.backgroundImage = "url('calm-city.gif')";
-    } else if (temp <= 16 && temp <= 25) {
+    } else if (temp <= 16 && temp <= 25) {  
         appOutline.style.backgroundImage = "url('warmest.gif')";
     } else {
         appOutline.style.backgroundImage = "url('p2j.gif')";
